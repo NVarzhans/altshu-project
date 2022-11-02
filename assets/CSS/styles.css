@@ -1,0 +1,21 @@
+* {
+    font-family: Nunito, monospace;
+}
+
+header {
+    background-color:#E4C1F9;
+}
+
+main div.first-page {
+    background-color:#FCF6BD;
+}
+
+main div.number {
+    color:#0F79FC;
+    font-weight: bold;
+}
+
+main p.number {
+    color:#0F79FC;
+    font-weight: bold;
+}
