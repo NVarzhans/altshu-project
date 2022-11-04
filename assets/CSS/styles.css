@@ -1,0 +1,45 @@
+* {
+    font-family: Nunito, monospace;
+}
+
+header {
+    background-color:#E4C1F9;
+}
+
+main div.first-page {
+    background-color:#FCF6BD;
+}
+
+main div.number {
+    color:#0F79FC;
+    font-weight: bold;
+}
+
+main p.number {
+    color:#0F79FC;
+    font-weight: bold;
+}
+
+div.button {
+    display: block;
+    background-color: #E4C1F9;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 30px;
+    align-items: center;
+}
+
+div.button1 {
+    display: block;
+    background-color: #0F79FC;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 30px;
+    align-items: center;
+}
+
+nav a {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
