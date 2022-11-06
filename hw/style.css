@@ -1,0 +1,29 @@
+header {
+    font-family: Roboto, monospace;
+}
+
+h3 {
+    font-family: Nunito, monospace;
+    font-size: 20px;
+}
+
+h4 {
+    font-family: Nunito, monospace;
+    font-size: 18px;
+}
+
+li {
+    font-family: Nunito, monospace;
+}
+
+p  {
+    font-family: Nunito, monospace;
+}
+
+div.class-work {
+    background-color: cornsilk;
+    margin: 50px;
+    border: 2px solid black;
+    padding: 20px 30px;
+    width: 300px;
+}
